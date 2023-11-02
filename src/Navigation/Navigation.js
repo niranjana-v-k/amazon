@@ -15,13 +15,13 @@ function Navigation() {
             
           <ul className="nav-list">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">🏠Home</Link>
             </li>
             <li>
-              <Link to="/Webseries">Webseries</Link>
+              <Link to="/Webseries">🎥Webseries</Link>
             </li>
             <li>
-              <Link to="/Comedy">Comedy</Link>
+              <Link to="/Comedy">🤣Comedy</Link>
             </li>
           </ul>
         </nav>
