@@ -7,9 +7,9 @@ const Home = () => {
       <h1 style={{textAlign:"center",fontSize:"80px",color:'blue'}}>🛒TRICOD</h1>
         <h3 style={{marginTop:"2%",textAlign:"center"}}>VISIT AGAIN TO THE STORES YOU VISTED ALREADY🤍</h3>
         <div id = "tri" style={{display:"inline-flex",marginTop:"4%"}}>
-         <img src="https://m.media-amazon.com/images/I/81WHOAv8eDL._AC_UF1000,1000_QL80_.jpg" alt='img1' style={{width:"20%",height:"20%",marginLeft:"10%",borderRadius:"50px"}}></img>
-          <img src="https://st2.depositphotos.com/1001877/5759/i/450/depositphotos_57593913-stock-photo-mobile-phones-background-pile-of.jpg" alt='img1' style={{width:"26%",height:"24%",marginLeft:"2%",borderRadius:"50px"}}></img>
-          <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D" alt='img1' style={{width:"29%",height:"26%",marginLeft:"2%",borderRadius:"50px"}}></img>
+         <img src="https://m.media-amazon.com/images/I/81WHOAv8eDL._AC_UF1000,1000_QL80_.jpg" alt='img1' style={{width:"330px",height:"20%",marginLeft:"300px",borderRadius:"50px"}}></img>
+          <img src="https://st2.depositphotos.com/1001877/5759/i/450/depositphotos_57593913-stock-photo-mobile-phones-background-pile-of.jpg" alt='img1' style={{width:"650px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
+          <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D" alt='img1' style={{width:"470px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
         </div>
         <div id = "tri" style={{display:"inline-flex",marginTop:"4%"}}>
           <img src="https://mlsvc01-prod.s3.amazonaws.com/9ec564d9001/447e1a10-4640-46e1-909d-8dd48786f9dc.jpg" alt='img1' style={{width:"330px",height:"300px",marginLeft:"11%",borderRadius:"50px"}}></img>
