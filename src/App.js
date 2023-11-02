@@ -5,6 +5,9 @@ import Webseries from './Components/Webseries';
 import Comedy from './Components/Comedy';
 import Navigation from './Navigation/Navigation';
 
+import Contact from './Components/Contact';
+import Login from './Components/Login';
+
 function App() {
   return (
     <Router>
@@ -14,7 +17,10 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/Webseries" element={<Webseries/>} />
           <Route path="/Comedy" element={<Comedy/>}/>
+          <Route path="/Contact" element={<Contact/>}/>
+          <Route path="/Login" element={<Login/>}/>
           
+        
         </Routes>
       </div>
     </Router>
