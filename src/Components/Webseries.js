@@ -3,7 +3,7 @@ import './Webseries.css'
 const Webseries = () => {
   return (
     <div style={{ fontsize:"30px"}}>
-        <h1>Top 10 shows on miniTV</h1>
+        <h1 style={{color:"white"}}>Top 10 shows on miniTV</h1>
         <div class="row">
   <div class="column">
     <img src="https://m.media-amazon.com/images/S/pv-target-images/58de06ad68fd193e16f7fe71a1c696ac2939147c45e333058ce65451e264bbb2.__SX412.5__SY232.5__QL60__._TTH_.jpg" alt="Snow" style={{width:"100%"}}></img>

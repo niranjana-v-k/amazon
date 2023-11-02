@@ -4,8 +4,8 @@ import Footer from './Footer'
 const Home = () => {
   return (
     <div>
-      <h1 style={{textAlign:"center",fontSize:"80px",color:'blue'}}>🛒TRICOD</h1>
-        <h3 style={{marginTop:"2%",textAlign:"center"}}>VISIT AGAIN TO THE STORES YOU VISTED ALREADY🤍</h3>
+      <h1 style={{textAlign:"center",fontSize:"80px",color:'blue'}}>🛒BASKE</h1>
+        <h3 style={{marginTop:"2%",textAlign:"center"}}>VISIT AGAIN TO THE STORES YOU VISTED ALREADY❤</h3>
         <div id = "tri" style={{display:"inline-flex",marginTop:"4%"}}>
          <img src="https://m.media-amazon.com/images/I/81WHOAv8eDL._AC_UF1000,1000_QL80_.jpg" alt='img1' style={{width:"330px",height:"20%",marginLeft:"11%",borderRadius:"50px"}}></img>
           <img src="https://st2.depositphotos.com/1001877/5759/i/450/depositphotos_57593913-stock-photo-mobile-phones-background-pile-of.jpg" alt='img1' style={{width:"650px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
