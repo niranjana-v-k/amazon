@@ -18,16 +18,16 @@ function Navigation() {
               <Link to="/">🏠Home</Link>
             </li>
             <li>
-              <Link to="/Webseries">🎥📽🎥Webseries</Link>
+              <Link to="/Webseries">🎥Webseries</Link>
             </li>
             <li>
               <Link to="/Comedy">🤣Comedy</Link>
             </li>
             <li>
-              <Link to="/Contact">Contact</Link>
+              <Link to="/Contact">📞Contact</Link>
             </li>
             <li>
-              <Link to="/Login">🤣login</Link>
+              <Link to="/Login">🙋‍♀️login</Link>
             </li>
           </ul>
         </nav>

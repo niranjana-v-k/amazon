@@ -1,5 +1,5 @@
 h1{
-    color: white;
+    color: rgb(20, 0, 0);
    
 }
 .column {
@@ -26,10 +26,6 @@ h1{
     content: "";
     clear: both;
     display: table;
-  }
-  *{
-    background-color: black;
-    color: white;
   }
   .column1:hover{
     transform:scale(1.5);

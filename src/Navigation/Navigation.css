@@ -15,6 +15,7 @@
     margin-left: 20px;
     display: flex;
     align-items: center;
+    font-size: 20px;
 }
 
 .nav-list li {
@@ -27,7 +28,7 @@
 
 .nav-list a {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 18px;
     transition: color 0.3s ease, transform 0.2s ease;
@@ -36,7 +37,7 @@
 
 /* Animation for Home and Contact links */
 .nav-list a:hover {
-    color: #15e6d1;
+    color: #e6c315;
     transform: scale(1.1);
 }
 

@@ -4,7 +4,7 @@ import Footer from './Footer'
 const Home = () => {
   return (
     <div>
-      <h1 style={{textAlign:"center",fontSize:"80px"}}>🛒TRICOD</h1>
+      <h1 style={{textAlign:"center",fontSize:"80px",color:'blue'}}>🛒TRICOD</h1>
         <h3 style={{marginTop:"2%",textAlign:"center"}}>VISIT AGAIN TO THE STORES YOU VISTED ALREADY🤍</h3>
         <div id = "tri" style={{display:"inline-flex",marginTop:"4%"}}>
          <img src="https://m.media-amazon.com/images/I/81WHOAv8eDL._AC_UF1000,1000_QL80_.jpg" alt='img1' style={{width:"20%",height:"20%",marginLeft:"10%",borderRadius:"50px"}}></img>
@@ -24,16 +24,16 @@ const Home = () => {
         <div id = "tri" style={{display:"inline-flex",marginTop:"4%"}}>
           <img src="https://img.freepik.com/premium-photo/colorful-toys-collection-desk_488220-3796.jpg" alt='img1' style={{width:"330px",height:"300px",marginLeft:"12.6%",borderRadius:"50px"}}></img>
           <img src="https://images6.alphacoders.com/570/570538.jpg" alt='img1' style={{width:"540px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
-          <img src="https://img.freepik.com/premium-photo/shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients_8087-2232.jpg" alt='img1' style={{width:"430px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
+          <img src="https://img.freepik.com/premium-photo/shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients_8087-2232.jpg" alt='img1' style={{width:"465px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
         </div>
         <h3 style={{marginTop:"4%",textAlign:"center"}}>🎆🎇GREAT INDIAN FESTIVAL🎇🎆| FINAL DAYS⏳</h3>
         <div id='tri1' style={{display:"inline-flex",marginTop:"4%"}}>
-          <img src='https://media.istockphoto.com/id/1337022895/vector/abstract-banner-with-mega-sale-for-promotion-design.jpg?s=612x612&w=0&k=20&c=7IOCB-RAXt2bSwP4nQE1n4kaU7vt3BsozWe27QHZ5vM=' alt='tri4' style={{width:"300px",height:"300px",marginLeft:"27%",borderRadius:"50px"}}></img>
+          <img src='https://media.istockphoto.com/id/1337022895/vector/abstract-banner-with-mega-sale-for-promotion-design.jpg?s=612x612&w=0&k=20&c=7IOCB-RAXt2bSwP4nQE1n4kaU7vt3BsozWe27QHZ5vM=' alt='tri4' style={{width:"300px",height:"300px",marginLeft:"35%",borderRadius:"50px"}}></img>
           <img src='https://img.freepik.com/free-vector/premium-happy-diwali-sale-banner-with-lamp-diya-design_1017-39980.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698537600&semt=ais' alt='tri5' style={{width:"300px",height:"300px",marginLeft:"2.5%",borderRadius:"50px"}}></img>
-          <img src='https://www.exchange4media.com/news-photo/1506067873_2Dawa2_70631.jpg' alt='tri6' style={{width:"400px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
+          <img src='https://www.exchange4media.com/news-photo/1506067873_2Dawa2_70631.jpg' alt='tri6' style={{width:"300px",height:"300px",marginLeft:"2%",borderRadius:"50px"}}></img>
         </div>
         <div id='tri1' style={{display:"inline-flex",marginTop:"4%"}}>
-          <img src='https://img.freepik.com/premium-vector/no-cost-emi-ad-flyer-layout-background-vector-illustration_100456-10387.jpg' alt='tri4' style={{width:"300px",height:"300px",marginLeft:"27%",borderRadius:"50px"}}></img>
+          <img src='https://img.freepik.com/premium-vector/no-cost-emi-ad-flyer-layout-background-vector-illustration_100456-10387.jpg' alt='tri4' style={{width:"300px",height:"300px",marginLeft:"35%",borderRadius:"50px"}}></img>
           <img src='https://img.freepik.com/free-vector/exchange-offer-banner-modern-style_1017-33504.jpg' alt='tri5' style={{width:"300px",height:"300px",marginLeft:"2.5%",borderRadius:"50px"}}></img>
           <img src='https://img.freepik.com/premium-vector/special-offer-advertising-banner_95169-185.jpg' alt='tri6' style={{width:"300px",height:"300px",marginLeft:"2.5%",borderRadius:"50px"}}></img>
         </div>
